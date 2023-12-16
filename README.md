@@ -8,17 +8,11 @@ home application</h1>
 
 Read LabMaking_Project_Report to know more about the project.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 * ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -57,5 +51,3 @@ Here are the steps required to to use the Edge Impulse CLI command:
 *   🔗 [TinyML Image Recognition With Edge Impulse, Nano 33 BLE and OV7670 Camera](https://www.instructables.com/TinyML-Image-Recognition-With-Edge-Impulse-Nano-33/)
 *   🔗[Roshambo Image Classification Workshop](https://github.com/edgeimpulse/workshop-arduino-tinyml-roshambo#05-live-inference)
 -->
-  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
