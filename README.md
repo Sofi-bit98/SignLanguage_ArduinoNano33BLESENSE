@@ -33,7 +33,7 @@ Read LabMaking_Project_Report.pdf and Lab di making_Project_Slides.pdf.
 
 Go to [Edge Impulse project](https://studio.edgeimpulse.com/public/318850/latest) to modify the model.
 
-### Use
+### Inference
 
 #### Edge Impulse CLI command
 Here are the steps required to to use the Edge Impulse CLI command:
@@ -57,6 +57,7 @@ Here are the steps required to to use the Edge Impulse CLI command:
    This will start a inferencing session on the Nano 33 BLE and the results will print out on the command prompt screen.
    If you want to see a feed of the camera and live classification in your browser, use the address shown on the command prompt screen (typically 192.168.12.49:4915).
 
+### Use
 #### Arduino IDE
 
 Upload the sign-detection-sketch on Arduino.
