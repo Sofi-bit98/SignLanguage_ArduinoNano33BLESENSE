@@ -59,7 +59,7 @@ Here are the steps required to to use the Edge Impulse CLI command:
 
 #### Arduino IDE
 
-Upload the sketch [SignDetection](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/) on Arduino.
+Upload the sign-detection-sketch on Arduino.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
