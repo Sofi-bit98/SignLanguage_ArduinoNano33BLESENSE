@@ -57,11 +57,11 @@ Here are the steps required to to use the Edge Impulse CLI command:
    This will start a inferencing session on the Nano 33 BLE and the results will print out on the command prompt screen.
    If you want to see a feed of the camera and live classification in your browser, use the address shown on the command prompt screen (typically 192.168.12.49:4915).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 #### Arduino IDE
 
 Upload the sketch [SignDetection](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/) on Arduino.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- 
 👀 **Similar project**
