@@ -6,7 +6,7 @@ home application</h1>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Read [LabMaking_Project_Report](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/) and [Lab di making_Project_Slides.pdf](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/Lab di making_Project_Slides.pdf)to know more about the project.
+Read LabMaking_Project_Report.pdf and Lab di making_Project_Slides.pdf.
 
 
 ### Built With
