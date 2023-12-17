@@ -6,22 +6,36 @@ home application</h1>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Read LabMaking_Project_Report to know more about the project.
+Read [LabMaking_Project_Report](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/) to know more about the project.
 
 
 ### Built With
 
+* Edge Impulse
 * ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 * ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 
+### Hardware
+* [Arduino Tiny Machine Learning Kit](https://store.arduino.cc/products/arduino-tiny-machine-learning-kit)
+   * 1 Arduino Nano 33 BLE Sense board
+   * 1 OV7675 Camera
+   * 1 Arduino Tiny Machine Learning Shield
+   * 1 USB A to Micro USB Cable
+
+## Before starting
+
+* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
+* [Arduino docs: Edge Impulse with the Nano 33 BLE Sense](https://docs.arduino.cc/tutorials/nano-33-ble-sense/edge-impulse)
+* [Edge Impulse docs: Arduino Nano 33 BLE Sense](https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/arduino-nano-33-ble-sense)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 Go to [Edge Impulse project](https://studio.edgeimpulse.com/public/318850/latest) to modify the model.
 
-### Installation
+### Use
 
+#### Edge Impulse CLI command
 Here are the steps required to to use the Edge Impulse CLI command:
 
 1. Download [sign-detection-nano-33-ble-sense](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/sign-detection-nano-33-ble-sense.zip)
@@ -44,6 +58,10 @@ Here are the steps required to to use the Edge Impulse CLI command:
    If you want to see a feed of the camera and live classification in your browser, use the address shown on the command prompt screen (typically 192.168.12.49:4915).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Arduino IDE
+
+Upload the sketch [SignDetection](https://github.com/Sofi-bit98/SignLanguage_ArduinoNano33BLE/) on Arduino.
 
 <!-- 
 👀 **Similar project**
